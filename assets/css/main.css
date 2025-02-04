@@ -52,7 +52,7 @@
   align-items: center;
   text-align: center;
   color: rgb(252, 249, 249); /* Ensure text is readable */
-  background: url('/assets/img/WhatsApp\ Image\ 1.jpg') no-repeat center center/cover;
+  background: url('/assets/img/me.jpg') no-repeat center center/cover;
 }
 
 #hero .container {
