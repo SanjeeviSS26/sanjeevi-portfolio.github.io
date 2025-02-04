@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../OneDrive/Desktop/java/java1"
+		},
+		{
+			"path": "../../../OneDrive/Desktop/python"
+		},
+		{
+			"path": "../../../OneDrive/Desktop/mern"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
